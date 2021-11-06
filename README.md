@@ -1,4 +1,6 @@
-### Olá, sejam bem-vindos ao meu perfil do GitHub 👋!<br>
+## Olá, sejam bem-vindos ao meu perfil do GitHub 👋!
+
+<br>
 
 <p>Me chamo Felipe Vieira e atualmente tenho 22 anos. Sou estudante de Química Indústrial pela UFRJ e iniciante no mundo da programação!</p>
 
