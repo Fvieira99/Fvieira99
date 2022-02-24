@@ -1,5 +1,9 @@
 <h1 align ="center">Hello! Welcome to my Github profile 👋!</h1>
 
+<div align="center">
+<img height="200em" src= "https://media1.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif?cid=ecf05e47m0kpmrtd7uy3iin4oas1nrr5q7vjemsbl1j8fnos&rid=giphy.gif&ct=s" />
+</div>
+
 <br>
 
 ## :paperclip: About Me
