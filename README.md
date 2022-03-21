@@ -23,7 +23,7 @@
 <br>
 
 
-## :eyes: Technologies that I'm interested at
+## :eyes: Technologies I'm interested at
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
