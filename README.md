@@ -7,7 +7,7 @@
 <br>
 
 ## :paperclip: About Me
-- :man: My name is Felipe and I'm 22 years old.
+- :man: My name is Felipe and I'm 23 years old.
 - :man_student: Full-stack web devlopment student at [Driven Education](https://www.driven.com.br/) at the moment.
 - :dart: Found myself on the web devlopment world after studying Industrial Chemestry at [UFRJ](https://ufrj.br/) for a couple of years. 
 
