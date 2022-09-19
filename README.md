@@ -8,8 +8,8 @@
 
 ## :paperclip: About Me
 - :man: My name is Felipe and I'm 23 years old.
-- :man_student: Full-stack web devlopment student at [Driven Education](https://www.driven.com.br/) at the moment.
-- :dart: Found myself on the web devlopment world after studying Industrial Chemestry at [UFRJ](https://ufrj.br/) for a couple of years. 
+- :man_student: Full-stack web development student at [Driven Education](https://www.driven.com.br/) at the moment.
+- :dart: Found myself on the web development world after studying Industrial Chemestry at [UFRJ](https://ufrj.br/) for a couple of years. 
 
 <br>
 
@@ -65,7 +65,6 @@
 
 ## :calling: Ways you can contact me
 
-<a href="https://www.instagram.com/flpvieiraa/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:felipecosta1961@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
