@@ -7,9 +7,9 @@
 <br>
 
 ## :paperclip: About Me
-- :man: My name is Felipe and I'm 23 years old.
-- :man_student: Full-stack web development student at [Driven Education](https://www.driven.com.br/) at the moment.
-- :dart: Found myself on the web development world after studying Industrial Chemestry at [UFRJ](https://ufrj.br/) for a couple of years. 
+- :man: My name is Felipe and I'm 25 years old.
+- :book: Bachelor's student in Computer Science at Estácio
+- :dart: Full Stack Web Development Technical degree at [Driven Education](https://www.driven.com.br/)
 
 <br>
 
@@ -21,6 +21,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/Nest.js-43853D?style=for-the-badge&logo=nest.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -36,7 +37,8 @@
 
 
 ## :eyes: Technologies I'm interested at
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Golang](https://img.shields.io/badge/golang-%23ED8B00.svg?style=for-the-badge&logo=golang&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%23ED8B00.svg?style=for-the-badge&logo=c++&logoColor=white)
 
 
 <br>
