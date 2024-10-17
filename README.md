@@ -8,7 +8,7 @@
 
 ## :paperclip: About Me
 - :man: My name is Felipe and I'm 25 years old.
-- :book: Bachelor's student in Computer Science at Estácio
+- :book: Bachelor's student in System Analysis and Development at Estácio
 - :dart: Full Stack Web Development Technical degree at [Driven Education](https://www.driven.com.br/)
 
 <br>
